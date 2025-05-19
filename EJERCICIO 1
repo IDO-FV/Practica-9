@@ -1,5 +1,7 @@
 //Franco Vazquez Ian Javier
 
+#include <stdio.h>
+
 void main()
 {
     int list[5] = {57, 73, 24, 12, 20};
